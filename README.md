@@ -19,7 +19,7 @@ I maded this project for learning and study about android development.
 - Turn the flashlight on the phone on/off and make it blinking on specific speed.
 
 ## Usage
-Download and add the project to the Android Studio or run the exe file in the demo folder.
+Download and add the project to the Android Studio.
 
 
 ## Project Status
