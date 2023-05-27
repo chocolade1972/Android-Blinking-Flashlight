@@ -7,8 +7,11 @@ I maded this project for learning and study about android development.
 
 ## Technologies Used
 -Used Android Studio Flamingo version 2022.2.1 Patch 2
+
 -Language Kotlin
+
 -Minimum SDK API 24: Android 7.0 (Nougat)
+
 -Tested on Phone: Galasy S21 FE 5G
 
 
